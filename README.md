@@ -1,3 +1,13 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="alternate" hreflang="fa-IR" href="https://github.com/"/>
+<meta name="title" content="خرید v2rayng">
+<meta name="description" content="خرید سرور v2rayng پرسرعت و بدون قطعی دارای رمزنگاری قوی برای حفظ حریم خصوصی کاربران، خرید سرور v2rayng بهترین انتخاب شماست.">
+<meta name="keywords" content="خرید v2rayng, خرید سرور v2rayng, خرید v2ray, خرید سرور v2ray">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="revisit-after" content="1 days">
+<meta name="author" content="فیلتریتو">
+
 # v2rayng
 استفاده از v2rayng راهی مطمعن برای استفاده از اینترنت آزاد است. میتوان گفت V2rayng یک تونل است که وقتی شما به آن متصل می شوید شمارا از این تونل عبور میدهد. شما نیز میتوانید در داخل آن تونل محتوای مسدود شده سطح اینترنت را مشاهده نمایید. از v2rayng استفاده های متعددی میشود برای مثال تغییر آیپی شما، هنگام استفاده از سرور v2rayng آیپی کاربر تغییر می کند و آدرس آیپی شما از افرادی که میخواند این اطلاعات را به سرقت ببرند محافظت می شود. در زیر موارد بیشتری در این رابطه توضیح داده شده است.
 
